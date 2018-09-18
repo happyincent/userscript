@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        http://www.coolpc.com.tw/evaluate.php
+// @match        *://www.coolpc.com.tw/evaluate.php
 // @grant        none
 // ==/UserScript==
 
